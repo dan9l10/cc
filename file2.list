@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 6 admin1 admin1 4096 окт 18 19:55 .
+drwxr-xr-x 3 root   root   4096 окт  8 02:19 ..
+-rw------- 1 admin1 admin1 2884 окт 11 23:57 .bash_history
+-rw-r--r-- 1 admin1 admin1  220 апр  4  2019 .bash_logout
+-rw-r--r-- 1 admin1 admin1 3771 апр  4  2019 .bashrc
+drwx------ 2 admin1 admin1 4096 окт  8 02:20 .cache
+drwx------ 3 admin1 admin1 4096 окт 18 19:03 .config
+-rw-rw-r-- 1 admin1 admin1    0 окт 18 19:55 file2.list
+-rw-rw-r-- 1 admin1 admin1   10 окт 18 19:55 file2.txt
+-rw-rw-r-- 1 admin1 admin1   26 окт 18 17:53 file3.txt
+-rw-rw-r-- 1 admin1 admin1   65 окт 18 19:55 file.list
+drwx------ 3 admin1 admin1 4096 окт  8 02:20 .gnupg
+drwxrwxr-x 3 admin1 admin1 4096 окт 11 01:33 .local
+-rwxrw-r-- 1 admin1 admin1  292 окт 18 19:01 newscript.sh
+-rw-r--r-- 1 admin1 admin1  807 апр  4  2019 .profile
+-rwxrw-r-- 1 admin1 admin1  150 окт 18 19:55 script2.sh
+-rw-r--r-- 1 admin1 admin1    0 окт  8 02:40 .sudo_as_admin_successful
+-rw------- 1 admin1 admin1 2018 окт 11 23:41 .viminfo
