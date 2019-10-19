@@ -17,9 +17,9 @@ fi
 done  #end loop
 
 PATH2="/home/"
-cd /
+cd ..
 ls -a
 echo 
-cd $PATH2
+cd "$PATH2"
 ls -a
 

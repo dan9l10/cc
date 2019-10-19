@@ -1,7 +1,7 @@
 #!/bin/bash 
-NAME="Krasnyi Danylo"
+name="Nick Billie"
 TIME=`uptime | awk '{print $1}'`
-PATH="/home/admin1"
-echo "Directory `pwd` at $TIME "
+#path="/home/admin1"
+echo "Directory `pwd` at $TIME $name "
 echo "New Words">>file2.txt
 
